@@ -11,3 +11,11 @@ if(num % 10 == 0) {
 }
 
 // Q.1
+// Take the user name & age as input using prompts.
+// Then retuen 
+
+let name = prompt("please enter your name");
+let age = prompt("please enter your age");
+
+alert(`$ {name} is ${age} years old.`);
+
